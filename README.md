@@ -13,7 +13,7 @@ The requirements needed for this project are listed in the `requirements.txt` fi
 ## Getting Started
 
 To get started clone the repository:
-`git clone https://github.com/your_username_/Project-Name.git`
+`git clone https://github.com/shreyvish5678/Generative_Adversarial_Network.git`
 
 Then install the requirements:
 `pip install -r requirements.txt`
