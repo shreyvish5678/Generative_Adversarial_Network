@@ -10,6 +10,8 @@ The Jupyter Notebook in this repository(`GAN_Tutorial.ipynb`) provides a step-by
 
 The requirements needed for this project are listed in the `requirements.txt` file.
 
+## Getting Started
+
 To get started clone the repository:
 `git clone https://github.com/your_username_/Project-Name.git`
 
