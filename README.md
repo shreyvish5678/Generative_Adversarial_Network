@@ -18,8 +18,8 @@ To get started clone the repository:
 Then install the requirements:
 `pip install -r requirements.txt`
 
-After that, install jupyter:
-`pip install jupyterlab`
+After that, install Jupyter Notebook:
+`pip install notebook`
 
 Then, you can open up the notebook with:
 `jupyter notebook GAN_Tutorial.ipynb`
