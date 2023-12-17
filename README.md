@@ -7,6 +7,7 @@ The Jupyter Notebook in this repository(`GAN_Tutorial.ipynb') provides a step-by
 - Evaluation: How to generate new images using our trained GAN
 - Saving model for later use
 
+
 The requirements needed for this project are listed in the `requirements.txt` file.
 
 To get started clone the repository:
