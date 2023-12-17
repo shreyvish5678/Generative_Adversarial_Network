@@ -1,6 +1,6 @@
 # Generative_Adversarial_Network
 ## Description
-The Jupyter Notebook in this repository(`GAN_Tutorial.ipynb') provides a step-by-step guide on how to build, train and evaluate a GAN using Tensorflow. The notebook covers the following:
+The Jupyter Notebook in this repository(`GAN_Tutorial.ipynb`) provides a step-by-step guide on how to build, train and evaluate a GAN using Tensorflow. The notebook covers the following:
 - Data Preprocessing: How to load in, normalize, and btach your data for training
 - Model architecture: How to create the generator and discriminator networks
 - Training loop: How to train the models on a batch of data, and how to implement a training loop
