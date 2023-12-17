@@ -18,7 +18,10 @@ To get started clone the repository:
 Then install the requirements:
 `pip install -r requirements.txt`
 
-Then assuming you have jupyter installed, you can open up the notebook with:
+After that, install jupyter
+`pip install jupyterlab`
+
+Then, you can open up the notebook with:
 `jupyter notebook GAN_Tutorial.ipynb`
 
 The pre-trained models are also in the repository included as `generator.h5` and `discriminator.h5`
