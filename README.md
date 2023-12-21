@@ -25,3 +25,5 @@ Then, you can open up the notebook with:
 `jupyter notebook GAN_Tutorial.ipynb`
 
 The pre-trained models are also in the repository included as `generator.h5` and `discriminator.h5`
+
+There is also more information included on GANs in `GANS.pdf`
